@@ -1,4 +1,4 @@
-# 📘 Lista de Exercícios – Introdução à Programação
+# 📘 Lista de Exercícios 2 – Introdução à Programação
 
 ## 👨‍🎓 Informações do Aluno
 
